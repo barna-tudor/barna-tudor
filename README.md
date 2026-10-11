@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Programmer-to-be from Romania<br><br>-  Currently finishing a bachelor's<br>-  Going through boot.dev<br>-  In my free time I game, both video- and tabletop</p>
+<p align="left">Programmer-to-be from Romania<br><br>-  Currently Pursuing a bachelor's in Computer Engineering<br>-  Going through boot.dev<br>-  In my free time I game, both video- and tabletop</p>
 
 ###
 
